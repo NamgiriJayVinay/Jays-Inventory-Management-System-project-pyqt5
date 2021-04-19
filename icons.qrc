@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>icons/input.png</file>
+        
+		<file>icons/product.webp</file>
+		<file>icons/setting.png</file>
+		<file>icons/theme.png</file>
+		<file>icons/users.png</file>
+		<file>icons/flat.png</file>
+	</qresource>
+</RCC>
