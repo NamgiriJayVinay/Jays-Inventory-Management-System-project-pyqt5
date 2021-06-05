@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="icons/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Jays Inventory Management System</h3>
@@ -97,7 +97,7 @@ Wait for all the dependencies to get installed into your system
    ```sh
    pip install -r requirements.txt
    ```
-4. Hit the command "Enter your API in `config.js`
+4. Hit the command to execute the code
    ```py
    python index.py
    ```
@@ -142,4 +142,4 @@ Project  Source code Link: [https://github.com/NamgiriJayVinay/jays-inventory-ma
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jay-vinay/
-[product-screenshot]: images/ss.png
+[product-screenshot]: icons/ss(1).png
