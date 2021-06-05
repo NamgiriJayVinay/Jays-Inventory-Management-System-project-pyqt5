@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="#">
     <img src="icons/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-    <img src="icons/ss (1).png" alt="ss" width="100%" height="100%">
+[![Product Name Screen Shot][product-screenshot]](#)
 
 Inventory management of things having Smooth User experience with modern look and aesthetic appearance
 
@@ -142,4 +142,4 @@ Project  Source code Link: [https://github.com/NamgiriJayVinay/jays-inventory-ma
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jay-vinay/
-[product-screenshot]: icons/ss (1).png
+[product-screenshot]: icons/ss.png
