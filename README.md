@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="icons/logo.png" alt="Logo" width="80" height="80">
+    <img src="icons/logo.png" alt="Logo" width="30%" height="30%">
   </a>
 
   <h3 align="center">Jays Inventory Management System</h3>
