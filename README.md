@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+[![Product Name Screen Shot][product-screenshot]](icons/ss (1).png)
 
 Inventory management of things having Smooth User experience with modern look and aesthetic appearance
 
