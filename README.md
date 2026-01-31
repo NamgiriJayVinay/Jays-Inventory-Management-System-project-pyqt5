@@ -108,9 +108,6 @@ This can be used for getting track of all the items purchased and stock mangemnt
 
 Jay - [@https://www.linkedin.com/in/jay-vinay/](https://www.linkedin.com/in/jay-vinay/)
 
-My Website - [https://www.jayvinay.com/](https://www.jayvinay.com/)
-
-
 Project  Landing Page: [https://jays-inventory-management-system.netlify.app/](https://jays-inventory-management-system.netlify.app/)
 
 Project  Source code Link: [https://github.com/NamgiriJayVinay/jays-inventory-management-system-project-pyqt5](https://github.com/NamgiriJayVinay/jays-inventory-management-system-project-pyqt5)
@@ -121,8 +118,6 @@ Project  Source code Link: [https://github.com/NamgiriJayVinay/jays-inventory-ma
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://www.jayvinay.com/
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jay-vinay/
 [product-screenshot]: icons/ss.png
